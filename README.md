@@ -1,6 +1,17 @@
 # Big Data for Bees Hackathon
 
+![](https://forum.farmhack.nl/uploads/default/original/1X/0b80356d1becfc73f48e015a915a08d2a4dc300b.png)
 
+**Date**: 14 & 15 December
+
+**Location**: JADS Mariënburg Campus, Den Bosch
+
+**Sign Up**: https://www.farmhack.nl/activiteiten/big-data-for-bees/
+
+**Forum**: https://forum.farmhack.nl/t/about-the-big-data-for-bees-hackathon/77
+
+
+On the 14th and 15th of December, at the Campus of the Jheronimus Academy of Data Science, we will be delving into Big Data and Bees with teams committed to building data driven solutions using big data technologies to help save the bees. The 30 hour hackathon is part of the [National Bee Strategy](https://www.rijksoverheid.nl/onderwerpen/natuur-en-biodiversiteit/bijenstrategie).
 
 # Data
 
