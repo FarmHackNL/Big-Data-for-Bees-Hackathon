@@ -27,6 +27,8 @@ occur in that grid cell.
 
 The x and y coordiantes correspond to the centroids of the polygons in grid_100m_NL_rd.shp file.
 
+![](https://raw.githubusercontent.com/FarmHackNL/Big-Data-for-Bees-Hackathon/master/images/butterflies.png)
+
 #### Purpose
 To show the predicted distribtuion of butterfly species across the Netherlands in unsampled areas.
 
